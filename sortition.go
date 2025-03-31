@@ -24,6 +24,7 @@ package sortition
 import "C"
 
 import (
+
 	"crypto/sha512"
 	"fmt"
 	"math/big"

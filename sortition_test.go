@@ -17,6 +17,7 @@
 package sortition
 
 import (
+
 	"math/rand"
 	"testing"
 )
