@@ -1,3 +1,3 @@
-module github.com/algorand/sortition
+module github.com/DePINNetwork/sortition
 
-go 1.17
+go 1.23
